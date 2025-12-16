@@ -98,7 +98,6 @@ img {
     margin: auto;
     padding: 0 40px;
     display: flex;
-    align-items: center;
     gap: 100px;
 }
 
@@ -108,9 +107,12 @@ img {
 }
 
 .about-text .head-1 {
+    margin-top: 90px;
     font-size: 28px;
     font-weight: 200;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
+    font-weight: 400;
+    color: black;
 }
 
 .about-text p {
